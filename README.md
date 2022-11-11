@@ -18,6 +18,6 @@ source env/bin/activate
 python3 -m pip install -r requirements.txt
 ```
 
-This will install the necessary Python package.
+This will install the necessary Python packages.
 You may then start JupyterLab by running `jupyter lab`,
 and open one of the notebooks.
